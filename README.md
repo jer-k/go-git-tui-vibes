@@ -12,6 +12,6 @@ The original prompt was
 > colors. Finally, we will show as many commits as possible on the screen (based on the width of each commit box and the width of the terminal window)
 > and users should be able to scroll using the arrow keys.
 >
->Before you write any code, can you come up with a plan for implementing this project?
+> Before you write any code, can you come up with a plan for implementing this project?
 
 This is the result
