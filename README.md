@@ -15,3 +15,4 @@ The original prompt was
 > Before you write any code, can you come up with a plan for implementing this project?
 
 This is the result
+![image-of-go-git-tui](./go-git-tui.png)
